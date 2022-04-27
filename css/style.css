@@ -58,7 +58,7 @@ header{
     justify-content: space-between;
 }
 
-header nav{
+header nav ul{
     margin: 38px 10px 0 0;
     display: flex;
 }
